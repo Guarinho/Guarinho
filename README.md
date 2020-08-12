@@ -3,7 +3,7 @@
 ## Welcome to my profile<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 [![Linkedin Badge](https://img.shields.io/badge/-Linkdin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Guarinho/)](https://www.linkedin.com/in/Guarinho/)
 [![Website Badge](https://img.shields.io/badge/-Guarinho.ml-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://guarinho.ml)](https://guarinho.ml)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigoguarinho@gmail.com)](mailto:rodrigoguarinho@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigoguarinho@gmail.com)](mailto:roguarinho@gmail.com)
 [![Medium Badge](https://img.shields.io/badge/-Medium-000?style=flat-square&logo=Medium&logoColor=white&&link=https://medium.com/@Guarinho)](https://medium.com/@Guarinho)
 
 <!-- Talking about you -->
@@ -17,7 +17,7 @@
 - 🤔 I’m looking for help with 3D Modeling and Data Analysis;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I have a degree in electrical engineering;
-- 📫 How to reach me: murillo_comino@hotmail.com;
+- 📫 How to reach me: roguarinho@gmail.com;
 
 **Languages and Tools:** 
 
