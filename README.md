@@ -7,7 +7,7 @@
 [![Medium Badge](https://img.shields.io/badge/-Medium-000?style=flat-square&logo=Medium&logoColor=white&&link=https://medium.com/@Guarinho)](https://medium.com/@Guarinho)
 
 
-Hi, I'm Rodrigo, a engineering graduated passionated about development and entrepreneurship.
+Hi, I'm Rodrigo, a engineering graduated passionated about development and engineering.
 
 - :books: I’m currently learning Blender and Deep Learning.
 
