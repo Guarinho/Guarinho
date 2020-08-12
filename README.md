@@ -11,7 +11,7 @@ Hi, I'm Rodrigo, a engineering graduated passionated about development and entre
 - :computer: Techs: <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png">  <img height="20" src="<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png">
 - :pushpin: Interests: Artificial Intelligence, Energy Efficiency, 3D Modeling, Data Analysis, Data Science, Machine Learning, Deep Learning.
 
-<center>   <h2> 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸 </h2> </center>
+<center>   <h1> 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸 </h1> </center>
 
 <table>
   <tbody>
@@ -59,7 +59,7 @@ Hi, I'm Rodrigo, a engineering graduated passionated about development and entre
 
 
 
-#[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guarinho)](https://github.com/Guarinho/github-readme-stats)
+
 
 
 
