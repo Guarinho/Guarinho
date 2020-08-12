@@ -1,7 +1,7 @@
 
 
 ## Rodrigo Guarinho <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
-[![Linkedin Badge](https://img.shields.io/badge/-Guarinho-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Guarinho/)](https://www.linkedin.com/in/Guarinho/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkdin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Guarinho/)](https://www.linkedin.com/in/Guarinho/)
 [![Website Badge](https://img.shields.io/badge/-Guarinho.ml-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://guarinho.ml)](https://guarinho.ml)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigoguarinho@gmail.com)](mailto:rodrigoguarinho@gmail.com)
 [![Medium Badge](https://img.shields.io/badge/-Medium-000?style=flat-square&logo=Medium&logoColor=white&&link=https://medium.com/@Guarinho)](https://medium.com/@Guarinho)
@@ -10,7 +10,7 @@
 **Talking about Personal Stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="35%" align="right" alt="Github" src="https://i.imgur.com/Os9lnox.gif" />
+<img width="50%" align="right" alt="Github" src="https://i.imgur.com/Os9lnox.gif" />
 
 - 👨🏽‍💻 I’m currently working on [Handle Path Oz](https://github.com/onimur/handle-path-oz);
 - 🌱 I’m currently learning Kotlin and Continuous Integration(CircleCI); 
