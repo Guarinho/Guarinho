@@ -10,7 +10,7 @@
 **Talking about Personal Stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
-![picture](https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.tensorflow.org%2F2018%2F07%2Fdeep-reinforcement-learning-keras-eager-execution.html&psig=AOvVaw1hUHOKaq9xlsjQ4brhn34T&ust=1597335901370000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNDDspKKlusCFQAAAAAdAAAAABAD)
+<img width="55%" align="right" alt="Github" src="https://2.bp.blogspot.com/-fzegVsT_tF8/XhO0CruLy2I/AAAAAAAACXc/TI9U0iEQWVYIfQvRZy5FPrdaan1V_3Q5ACLcBGAsYHQ/s1600/0_VTFbD4rcGt1ySzQS.gif" />
 
 - 👨🏽‍💻 I’m currently working on [Handle Path Oz](https://github.com/onimur/handle-path-oz);
 - 🌱 I’m currently learning Kotlin and Continuous Integration(CircleCI); 
