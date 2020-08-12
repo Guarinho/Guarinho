@@ -12,12 +12,11 @@
 <!-- Any image aligned to the right. Beware the width -->
 <img width="50%" align="right" alt="Github" src="https://i.imgur.com/Os9lnox.gif" />
 
-- 👨🏽‍💻 I’m currently working on [Handle Path Oz](https://github.com/onimur/handle-path-oz);
-- 🌱 I’m currently learning Kotlin and Continuous Integration(CircleCI); 
-- 👯 I’m looking to collaborate on [Handle Path Oz](https://github.com/onimur/handle-path-oz) 🤝;
-- 🤔 I’m looking for help with Design Pattern 😭;
+
+- 🌱 I’m currently learning Blender and Deep Learning; 
+- 🤔 I’m looking for help with 3D Modeling and Data Analysis;
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I have a degree in civil engineering;
+- ⚡️ Fun-Fact: I have a degree in electrical engineering;
 - 📫 How to reach me: murillo_comino@hotmail.com;
 
 **Languages and Tools:** 
@@ -47,8 +46,8 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-ar21.svg"></code>
-
-
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
+  <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Logo_Blender.svg/260px-Logo_Blender.svg.png"></code>
 </p>
 
 
