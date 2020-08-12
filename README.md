@@ -10,7 +10,7 @@
 **Talking about Personal Stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="45%" align="right" alt="Github" src="https://i.imgur.com/Yw4iwQO.gif" />
+<img width="35%" align="right" alt="Github" src="https://i.imgur.com/Os9lnox.gif" />
 
 - 👨🏽‍💻 I’m currently working on [Handle Path Oz](https://github.com/onimur/handle-path-oz);
 - 🌱 I’m currently learning Kotlin and Continuous Integration(CircleCI); 
