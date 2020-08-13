@@ -51,8 +51,8 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 </p>
 
 
-
-
+<img width="50%" align="LEFT" alt="Github" src="https://imgur.com/Qz3hlqR" />
+<img width="50%" align="right" alt="Github" src="https://imgur.com/Fp0zMQM" />
 
 
 
