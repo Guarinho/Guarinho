@@ -21,9 +21,6 @@
 
 **Languages and Tools:** 
 
-<!-- Your github readme stats
-You can use this api: https://github.com/anuraghazra/github-readme-stats
--->
 <p>
   
   
@@ -49,12 +46,11 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
   <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Logo_Blender.svg/260px-Logo_Blender.svg.png"></code>
 </p>
+ **Overview :** 
 
-<p>
-  **Overview :** 
 <img width="30%" align="LEFT" alt="Github" src="https://imgur.com/Qz3hlqR.gif" />
 <img width="20%" align="left" alt="Github" src="https://imgur.com/Fp0zMQM.gif" />
-</p>
+
 
 
 ⭐️ From [Guarinho](https://github.com/Guarinho)
