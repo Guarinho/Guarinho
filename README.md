@@ -49,9 +49,9 @@
 
  **Overview :** 
 
-<img width="30%" align="LEFT" alt="Github" src="https://imgur.com/Qz3hlqR.gif" />
-<img width="20%" align="left" alt="Github" src="https://imgur.com/Fp0zMQM.gif" />
-
+<img width="65%"  align="LEFT" alt="Github" src="https://imgur.com/Qz3hlqR.gif" />
+<img width="30%" height="300" align="left" alt="Github" src="https://imgur.com/Fp0zMQM.gif" />
+<img width="30%" height="50%"align="left" alt="Github" src="https://imgur.com/30w10oU.gif" />
 
 
 ⭐️ From [Guarinho](https://github.com/Guarinho)
