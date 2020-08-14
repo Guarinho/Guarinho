@@ -54,4 +54,4 @@
 <img width="30%" height="50%"align="left" alt="Github" src="https://imgur.com/30w10oU.gif" />
 
 
-⭐️ From [Guarinho](https://github.com/Guarinho)
+
